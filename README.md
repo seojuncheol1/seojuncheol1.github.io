@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# 서준철의 홈페이지
 
-You can use the [editor on GitHub](https://github.com/seojuncheol1/seojuncheol1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 한눈에 보는 서준철  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**자기소개**  
 
-### Markdown
+안녕하세요! 저는 글로벌소프트웨어학과 19학번 서준철 이라고 합니다. 전 각종 악기 연주를 하는 취미가 있으며 그중 **드럼**연주를 가장 좋아합니다. 그리고 각종 음악 감상과 게임을 즐겨하고있습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+************
 
-```markdown
-Syntax highlighted code block
+**연락처**  
+- 이메일 : sjc4197@naver.com  
+- 전화번호 : 01063054197  
 
-# Header 1
-## Header 2
-### Header 3
+************
 
-- Bulleted
-- List
+**좋아하는 것과 싫어하는 것**  
+| 구분 | 좋아하는것 | 싫어하는것 |
+|------|----------|------------|
+| 음식 | 고기,고기 | 가지 |
+| 활동 | 게임 | 알바 |
+| 알바 | X | 롯데리아 |  
 
-1. Numbered
-2. List
+~~싫어하는것 롯데리아~~  
 
-**Bold** and _Italic_ and `Code` text
+************
+  
+**최근 즐겨듣는 노래**  
+* Eminem - [Godzilla](https://www.youtube.com/watch?v=r_0JjYUe5jo)
+* 창모 - [wait for me](https://www.youtube.com/watch?v=aLwV39P-knU)
+* 애쉬 아일랜드 - [악몽](https://www.youtube.com/watch?v=zeez_GJW5Mo) 
 
-[Link](url) and ![Image](src)
+************
+
+**시간표**
+> 2020년 1학기
+![시간표](https://postfiles.pstatic.net/MjAyMDA2MjRfMjU2/MDAxNTkyOTI5NDY1MTIx.SzKOUtVMPeW1J2IRRJ1P24NQQRbQuQ1VSUd45CjjnLYg.tmVg44Tt5yBNP7FoU1nxSwtuZ-Hl8ODP28C0QufvRFQg.JPEG.sjc4197/KakaoTalk_20200624_012134379.jpg?type=w966 "1학기 시간표")
+
+## 지금까지 가장 기억에 남는 코드
+가장 기억에 남는 코드는 바로 1학년때 태어나서 처음으로 만들어본 프로그램입니다.   
+```python
+print("본 프로그램은 섭씨온도를 화씨온도로 변환하는 프로그램입니다.")
+print("변환하고 싶은 섭씨온도를 입력하세요")
+
+how=float(input())
+print("섭씨온도:",how)
+print("화씨온도:",(how*1.8)+32)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seojuncheol1/seojuncheol1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+지금보면 아주아주 간단한 코드이지만 저당시에는 저것도 어려워서 못했었던 기억이 나네요
