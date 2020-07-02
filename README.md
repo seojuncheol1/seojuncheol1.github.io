@@ -35,7 +35,7 @@
 
 **시간표**
 > 2020년 1학기
-![시간표](https://postfiles.pstatic.net/MjAyMDA2MjRfMjU2/MDAxNTkyOTI5NDY1MTIx.SzKOUtVMPeW1J2IRRJ1P24NQQRbQuQ1VSUd45CjjnLYg.tmVg44Tt5yBNP7FoU1nxSwtuZ-Hl8ODP28C0QufvRFQg.JPEG.sjc4197/KakaoTalk_20200624_012134379.jpg?type=w966 "1학기 시간표")
+![시간표](https://user-images.githubusercontent.com/67017480/86405754-d6c8a980-bcec-11ea-90ac-b3f1179890e9.jpg "1학기 시간표")
 
 ## 지금까지 가장 기억에 남는 코드
 가장 기억에 남는 코드는 바로 1학년때 태어나서 처음으로 만들어본 프로그램입니다.   
